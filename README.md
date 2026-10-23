@@ -1,6 +1,6 @@
 # Awesome-Multimedia-Game-Libraries
 
-# Top Multimedia & Game Libraries Ecosystem
+## Top Multimedia & Game Libraries Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on DirectMedia Abstraction, Object-Oriented Wrappers & Cross-Platform Game Engines*  
