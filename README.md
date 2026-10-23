@@ -58,104 +58,104 @@ The following table benchmarks leading commercial game creation platforms and ho
 
 ## 🚀 Top Open-Source Multimedia & Game Libraries
 
-Below is an extensive collection of open-source multimedia abstraction layers, low-level APIs, and independent game engines. Entries are **sorted in descending order by GitHub Star Count** with live stargazer badges.
+Below is an extensive collection of open-source multimedia abstraction layers, low-level APIs, and independent game engines. Entries are **sorted in descending order by GitHub Stars_Count** with live stargazer badges.
 
-### 1. [Godot Engine](https://github.com/godotengine/godot) [![GitHub stars](https://img.shields.io/github/stars/godotengine/godot?style=social&color=white)](https://github.com/godotengine/godot/stargazers)
+### 1. [Godot Engine](https://github.com/godotengine/godot) [![GitHub_Stars](https://img.shields.io/github/stars/godotengine/godot?style=social&color=white)](https://github.com/godotengine/godot/stargazers)
 - **License**: MIT  
 - **Language**: C++, GDScript, C#  
 - **Description**: The industry's premier fully free and open-source 2D and 3D game engine. Godot offers a dedicated lightweight visual editor, node-and-scene composition architecture, built-in animation timeline, and modern Vulkan-based clustered rendering pipeline. Supports one-click exports to Windows, Linux, macOS, Android, iOS, and WebAssembly with zero royalties or revenue clawbacks.
 
-### 2. [Bevy](https://github.com/bevyengine/bevy) [![GitHub stars](https://img.shields.io/github/stars/bevyengine/bevy?style=social&color=white)](https://github.com/bevyengine/bevy/stargazers)
+### 2. [Bevy](https://github.com/bevyengine/bevy) [![GitHub_Stars](https://img.shields.io/github/stars/bevyengine/bevy?style=social&color=white)](https://github.com/bevyengine/bevy/stargazers)
 - **License**: MIT / Apache-2.0  
 - **Language**: Rust  
 - **Description**: A refreshingly simple data-driven game engine built from the ground up in Rust. Features an ergonomic, blazing-fast Entity Component System (ECS) with automatic compile-time query safety, modular renderer utilizing WebGPU/WGPU, hot-reloading asset pipelines, and declarative scene hierarchies.
 
-### 3. [Phaser](https://github.com/phaserjs/phaser) [![GitHub stars](https://img.shields.io/github/stars/phaserjs/phaser?style=social&color=white)](https://github.com/phaserjs/phaser/stargazers)
+### 3. [Phaser](https://github.com/phaserjs/phaser) [![GitHub_Stars](https://img.shields.io/github/stars/phaserjs/phaser?style=social&color=white)](https://github.com/phaserjs/phaser/stargazers)
 - **License**: MIT  
 - **Language**: JavaScript / TypeScript  
 - **Description**: The gold standard 2D HTML5 canvas and WebGL game framework for desktop and mobile web browsers. Powers tens of thousands of browser games with integrated physics engines (Arcade, Matter.js), sprite animation sheets, Web Audio wrappers, device input handlers, and camera control suites.
 
-### 4. [Raylib](https://github.com/raysan5/raylib) [![GitHub stars](https://img.shields.io/github/stars/raysan5/raylib?style=social&color=white)](https://github.com/raysan5/raylib/stargazers)
+### 4. [Raylib](https://github.com/raysan5/raylib) [![GitHub_Stars](https://img.shields.io/github/stars/raysan5/raylib?style=social&color=white)](https://github.com/raysan5/raylib/stargazers)
 - **License**: zlib  
 - **Language**: C99  
 - **Description**: A highly praised, beginner-friendly C library designed for enjoying video games programming. Requires zero external dependencies, provides over 600 straightforward procedural functions, and leverages OpenGL (1.1 through 4.3 and ES 2.0) with unified 2D and 3D drawing routines. Maintained with over 60 community language bindings (Python, Rust, Go, C#).
 
-### 5. [Babylon.js](https://github.com/BabylonJS/Babylon.js) [![GitHub stars](https://img.shields.io/github/stars/BabylonJS/Babylon.js?style=social&color=white)](https://github.com/BabylonJS/Babylon.js/stargazers)
+### 5. [Babylon.js](https://github.com/BabylonJS/Babylon.js) [![GitHub_Stars](https://img.shields.io/github/stars/BabylonJS/Babylon.js?style=social&color=white)](https://github.com/BabylonJS/Babylon.js/stargazers)
 - **License**: Apache-2.0  
 - **Language**: TypeScript / WebGL / WebGPU  
 - **Description**: A powerful, beautiful, and deeply optimized 3D graphics rendering engine for the web. Includes full physically based rendering (PBR), node material graph editor, WebXR spatial headset integration, volumetric lighting, particle systems, and integrated Havok physics for web-based games.
 
-### 6. [libGDX](https://github.com/libgdx/libgdx) [![GitHub stars](https://img.shields.io/github/stars/libgdx/libgdx?style=social&color=white)](https://github.com/libgdx/libgdx/stargazers)
+### 6. [libGDX](https://github.com/libgdx/libgdx) [![GitHub_Stars](https://img.shields.io/github/stars/libgdx/libgdx?style=social&color=white)](https://github.com/libgdx/libgdx/stargazers)
 - **License**: Apache-2.0  
 - **Language**: Java / Kotlin  
 - **Description**: A robust cross-platform Java game development framework established over a decade of production usage. Exposes unified abstractions for windowing, filesystem I/O, audio streaming, and OpenGL ES rendering across Windows, Linux, macOS, Android, iOS (via RoboVM), and WebAssembly (via TeaVM).
 
-### 7. [Cocos2d-x](https://github.com/cocos2d/cocos2d-x) [![GitHub stars](https://img.shields.io/github/stars/cocos2d/cocos2d-x?style=social&color=white)](https://github.com/cocos2d/cocos2d-x/stargazers)
+### 7. [Cocos2d-x](https://github.com/cocos2d/cocos2d-x) [![GitHub_Stars](https://img.shields.io/github/stars/cocos2d/cocos2d-x?style=social&color=white)](https://github.com/cocos2d/cocos2d-x/stargazers)
 - **License**: MIT  
 - **Language**: C++, Lua, JavaScript  
 - **Description**: The legendary high-performance 2D game framework utilized by millions of developers for global hits like *Badland* and *Geometry Dash*. Provides scene management, skeletal animation (Spine/Armature), tilemap rendering, Box2D/Chipmunk physics, and optimized mobile rendering for iOS and Android.
 
-### 8. [bgfx](https://github.com/bkaradzic/bgfx) [![GitHub stars](https://img.shields.io/github/stars/bkaradzic/bgfx?style=social&color=white)](https://github.com/bkaradzic/bgfx/stargazers)
+### 8. [bgfx](https://github.com/bkaradzic/bgfx) [![GitHub_Stars](https://img.shields.io/github/stars/bkaradzic/bgfx?style=social&color=white)](https://github.com/bkaradzic/bgfx/stargazers)
 - **License**: BSD-2-Clause  
 - **Language**: C++  
 - **Description**: Cross-platform, graphics API-agnostic rendering library engineered with a "Bring Your Own Engine" ethos. Abstracting Direct3D 11/12, Vulkan, Metal, WebGPU, and OpenGL, bgfx is deployed in professional game engines, visualization software, and AAA rendering pipelines worldwide.
 
-### 9. [SDL (Simple DirectMedia Layer)](https://github.com/libsdl-org/SDL) [![GitHub stars](https://img.shields.io/github/stars/libsdl-org/SDL?style=social&color=white)](https://github.com/libsdl-org/SDL/stargazers)
+### 9. [SDL (Simple DirectMedia Layer)](https://github.com/libsdl-org/SDL) [![GitHub_Stars](https://img.shields.io/github/stars/libsdl-org/SDL?style=social&color=white)](https://github.com/libsdl-org/SDL/stargazers)
 - **License**: zlib  
 - **Language**: C  
 - **Description**: The industry's foundational multimedia abstraction layer with over 25 years of active engineering. Handles window context generation, keyboard, mouse, gamepad/haptics, spatial audio playback, and hardware graphics surfaces (OpenGL, Vulkan, Direct3D, Metal). Powers Valve's Steam client, countless emulators, and commercial game engines. SDL3 introduces native cross-platform GPU driver abstractions.
 
-### 10. [GLFW](https://github.com/glfw/glfw) [![GitHub stars](https://img.shields.io/github/stars/glfw/glfw?style=social&color=white)](https://github.com/glfw/glfw/stargazers)
+### 10. [GLFW](https://github.com/glfw/glfw) [![GitHub_Stars](https://img.shields.io/github/stars/glfw/glfw?style=social&color=white)](https://github.com/glfw/glfw/stargazers)
 - **License**: zlib/libpng  
 - **Language**: C99  
 - **Description**: A lean, razor-focused cross-platform library dedicated purely to OpenGL, OpenGL ES, and Vulkan window creation, surface configuration, and low-latency input event dispatch. Supports modern Wayland and X11 on Linux, macOS Cocoa, and Windows Win32 without audio or image bloating.
 
-### 11. [MonoGame](https://github.com/MonoGame/MonoGame) [![GitHub stars](https://img.shields.io/github/stars/MonoGame/MonoGame?style=social&color=white)](https://github.com/MonoGame/MonoGame/stargazers)
+### 11. [MonoGame](https://github.com/MonoGame/MonoGame) [![GitHub_Stars](https://img.shields.io/github/stars/MonoGame/MonoGame?style=social&color=white)](https://github.com/MonoGame/MonoGame/stargazers)
 - **License**: MS-PL  
 - **Language**: C# / .NET  
 - **Description**: An open-source, battle-tested C# implementation of the Microsoft XNA 4.0 Application Framework. Celebrated as the backbone of award-winning titles including *Celeste*, *Stardew Valley*, *Carrion*, and *Streets of Rage 4*. Supports PC, mobile, and first-party game consoles (Nintendo Switch, PlayStation, Xbox).
 
-### 12. [SFML](https://github.com/SFML/SFML) [![GitHub stars](https://img.shields.io/github/stars/SFML/SFML?style=social&color=white)](https://github.com/SFML/SFML/stargazers)
+### 12. [SFML](https://github.com/SFML/SFML) [![GitHub_Stars](https://img.shields.io/github/stars/SFML/SFML?style=social&color=white)](https://github.com/SFML/SFML/stargazers)
 - **License**: zlib/libpng  
 - **Language**: C++  
 - **Description**: Simple and Fast Multimedia Library providing an ergonomic, object-oriented C++ API. Structured into five focused modules: System, Window, Graphics (2D hardware-accelerated sprites, text, and shaders), Audio (recording and spatialized playback), and Network (TCP/UDP sockets and HTTP). Active development centers on SFML 3 with modern C++17 paradigms.
 
-### 13. [Sokol](https://github.com/floooh/sokol) [![GitHub stars](https://img.shields.io/github/stars/floooh/sokol?style=social&color=white)](https://github.com/floooh/sokol/stargazers)
+### 13. [Sokol](https://github.com/floooh/sokol) [![GitHub_Stars](https://img.shields.io/github/stars/floooh/sokol?style=social&color=white)](https://github.com/floooh/sokol/stargazers)
 - **License**: zlib  
 - **Language**: C99  
 - **Description**: Ultra-minimal, header-only C99 multi-platform libraries. Provides standalone modules for cross-platform 3D graphics wrapper (`sokol_gfx`), application lifecycle and input (`sokol_app`), low-latency audio buffer streaming (`sokol_audio`), and time management. Outstanding choice for WebAssembly emulators and hyper-lightweight native tools.
 
-### 14. [Fyrox](https://github.com/FyroxEngine/Fyrox) [![GitHub stars](https://img.shields.io/github/stars/FyroxEngine/Fyrox?style=social&color=white)](https://github.com/FyroxEngine/Fyrox/stargazers)
+### 14. [Fyrox](https://github.com/FyroxEngine/Fyrox) [![GitHub_Stars](https://img.shields.io/github/stars/FyroxEngine/Fyrox?style=social&color=white)](https://github.com/FyroxEngine/Fyrox/stargazers)
 - **License**: MIT  
 - **Language**: Rust  
 - **Description**: A full-featured 2D and 3D game engine written completely in native Rust, featuring a standalone visual scene editor. Highlights include a modern PBR renderer, HDR bloom, cascaded shadow maps, Rapier physics integration, built-in sound system, and hierarchical scene graph inspection.
 
-### 15. [LÖVE (Love2D)](https://github.com/love2d/love) [![GitHub stars](https://img.shields.io/github/stars/love2d/love?style=social&color=white)](https://github.com/love2d/love/stargazers)
+### 15. [LÖVE (Love2D)](https://github.com/love2d/love) [![GitHub_Stars](https://img.shields.io/github/stars/love2d/love?style=social&color=white)](https://github.com/love2d/love/stargazers)
 - **License**: zlib  
 - **Language**: Lua / C++  
 - **Description**: An awesome 2D game framework that pairs Lua with high-speed C++ backends (LuaJIT, SDL, OpenGL). Renowned for lightning-fast prototyping cycles, embedded Box2D physics, OpenAL spatial audio, and simple multiplatform game distribution.
 
-### 16. [Stride](https://github.com/stride3d/stride) [![GitHub stars](https://img.shields.io/github/stars/stride3d/stride?style=social&color=white)](https://github.com/stride3d/stride/stargazers)
+### 16. [Stride](https://github.com/stride3d/stride) [![GitHub_Stars](https://img.shields.io/github/stars/stride3d/stride?style=social&color=white)](https://github.com/stride3d/stride/stargazers)
 - **License**: MIT  
 - **Language**: C# / .NET  
 - **Description**: A modern, free, and open-source 2D and 3D game engine built entirely in C#. Equipped with a comprehensive graphical editor (Game Studio), photorealistic physically based rendering (PBR), VR capabilities, Bullet physics engine, and deep integration with Visual Studio and .NET 8+.
 
-### 17. [Defold](https://github.com/defold/defold) [![GitHub stars](https://img.shields.io/github/stars/defold/defold?style=social&color=white)](https://github.com/defold/defold/stargazers)
+### 17. [Defold](https://github.com/defold/defold) [![GitHub_Stars](https://img.shields.io/github/stars/defold/defold?style=social&color=white)](https://github.com/defold/defold/stargazers)
 - **License**: Developer-Friendly Source-Available (Free Forever)  
 - **Language**: Lua / C++  
 - **Description**: A turnkey 2D and 3D cross-platform game engine optimized for mobile, web, and desktop. Boasts a tiny engine binary footprint (~3MB runtime), responsive visual scene editor, zero-overhead Lua scripting, automated texture compression, and instantaneous WebAssembly export.
 
-### 18. [Panda3D](https://github.com/panda3d/panda3d) [![GitHub stars](https://img.shields.io/github/stars/panda3d/panda3d?style=social&color=white)](https://github.com/panda3d/panda3d/stargazers)
+### 18. [Panda3D](https://github.com/panda3d/panda3d) [![GitHub_Stars](https://img.shields.io/github/stars/panda3d/panda3d?style=social&color=white)](https://github.com/panda3d/panda3d/stargazers)
 - **License**: Modified BSD  
 - **Language**: Python, C++  
 - **Description**: A battle-tested 3D engine originally engineered by Disney and Carnegie Mellon University for commercial MMOs (*Toontown Online*, *Pirates of the Caribbean Online*). Features an automated Python-to-C++ binding layer, advanced shader pipeline, scene graph management, and Bullet/ODE physics bindings.
 
-### 19. [OpenAL Soft](https://github.com/kcat/openal-soft) [![GitHub stars](https://img.shields.io/github/stars/kcat/openal-soft?style=social&color=white)](https://github.com/kcat/openal-soft/stargazers)
+### 19. [OpenAL Soft](https://github.com/kcat/openal-soft) [![GitHub_Stars](https://img.shields.io/github/stars/kcat/openal-soft?style=social&color=white)](https://github.com/kcat/openal-soft/stargazers)
 - **License**: LGPL-2.0+  
 - **Language**: C / C++  
 - **Description**: The industry reference software implementation of the OpenAL 3D spatial audio API. Delivers realistic 3D acoustic environments with distance attenuation, doppler shift, HRTF binaural 3D headphone virtualization, multi-channel surround output (5.1, 7.1), and environmental reverberation via EFX extensions.
 
-### 20. [Allegro 5](https://github.com/liballeg/allegro5) [![GitHub stars](https://img.shields.io/github/stars/liballeg/allegro5?style=social&color=white)](https://github.com/liballeg/allegro5/stargazers)
+### 20. [Allegro 5](https://github.com/liballeg/allegro5) [![GitHub_Stars](https://img.shields.io/github/stars/liballeg/allegro5?style=social&color=white)](https://github.com/liballeg/allegro5/stargazers)
 - **License**: zlib  
 - **Language**: C  
 - **Description**: A veteran cross-platform game programming library offering an intuitive C interface. Features hardware-accelerated 2D bitmap manipulation, shader management, event queues, TTF font rendering, video playback, and multi-channel audio streaming across Windows, Linux, macOS, iOS, and Android.
@@ -182,7 +182,7 @@ Contributions are warmly welcomed! Help keep this ecosystem index fresh and comp
 2. **Create a descriptive feature branch** (`git checkout -b add-my-library`).
 3. **Add or edit entries** adhering strictly to the existing formatting:
    - Provide the project name, official website, and GitHub repository link.
-   - For open-source projects, include the star badge pointing to `/stargazers`.
+   - For open-source projects, include the Stars_Badge pointing to `/stargazers`.
    - Provide exact license, primary language, and factual capability summaries.
 4. **Submit a Pull Request** with a brief summary explaining the addition.
 
